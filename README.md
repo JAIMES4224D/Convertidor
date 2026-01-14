@@ -57,6 +57,21 @@ Puedes encontrar la última versión compilada lista para usar en la sección de
 
 Este software fue desarrollado con fines educativos y de uso personal ("Fair Use"). El usuario es responsable de respetar los derechos de autor y los Términos de Servicio de YouTube.
 
+## 📄 Licencia y Derechos de Autor
+
+Este proyecto está protegido bajo la licencia **CC BY-NC 4.0** (Creative Commons Non-Commercial).
+
+❌ **Prohibido:**
+* Vender este software.
+* Incluir este código en paquetes de software de pago.
+* Usarlo para generar ingresos directos o indirectos.
+
+✅ **Permitido:**
+* Descargarlo para uso personal.
+* Modificarlo para aprender (Uso Educativo).
+* Compartirlo con amigos (dando crédito a DEVPASS).
+
+**Copyright © 2026 DEVPASS DIGITAL SOLUTIONS**
 ---
 **Desarrollado por [Jeferson Jaimes](https://www.linkedin.com/in/jeferson-jociney-jaimes-passuni-700a58236/)**
 *Systems Engineer | DEVPASS DIGITAL SOLUTIONS*
