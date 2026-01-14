@@ -1,3 +1,13 @@
+# -----------------------------------------------------------------------------
+# DEVPASS CONVERTER - YouTube to MP3 High Fidelity
+# Copyright (c) 2026 DEVPASS DIGITAL SOLUTIONS (Jeferson Jaimes)
+#
+# Este software es propiedad intelectual de DEVPASS DIGITAL SOLUTIONS.
+# Se distribuye bajo la licencia "Creative Commons Atribución-NoComercial 4.0".
+# 
+# ESTÁ TOTALMENTE PROHIBIDO SU USO COMERCIAL O LUCRO.
+# Se permite el uso personal y educativo.
+# -----------------------------------------------------------------------------
 import yt_dlp
 import os
 
@@ -36,4 +46,5 @@ if __name__ == "__main__":
     print("--- DEVPASS CONVERTER (Python + yt-dlp) ---")
     url = input("Ingresa el enlace de YouTube: ")
     if url:
+
         descargar_audio(url)
