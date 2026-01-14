@@ -1,3 +1,13 @@
+# -----------------------------------------------------------------------------
+# DEVPASS CONVERTER - YouTube to MP3 High Fidelity
+# Copyright (c) 2026 DEVPASS DIGITAL SOLUTIONS (Jeferson Jaimes)
+#
+# Este software es propiedad intelectual de DEVPASS DIGITAL SOLUTIONS.
+# Se distribuye bajo la licencia "Creative Commons Atribución-NoComercial 4.0".
+# 
+# ESTÁ TOTALMENTE PROHIBIDO SU USO COMERCIAL O LUCRO.
+# Se permite el uso personal y educativo.
+# -----------------------------------------------------------------------------
 import customtkinter as ctk
 import tkinter as tk
 from tkinter import filedialog, messagebox
@@ -141,4 +151,5 @@ class DevPassConverter(ctk.CTk):
 
 if __name__ == "__main__":
     app = DevPassConverter()
+
     app.mainloop()
